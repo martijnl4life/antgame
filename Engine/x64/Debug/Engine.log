@@ -1,2 +1,19 @@
-﻿  Game.cpp
-  Engine.vcxproj -> C:\Users\marti\Source\Repos\Sprite\x64\Debug\Engine.exe
+﻿  compilation header save succeeded; see F:\Bureaublad\repo\antgame\Engine\FramebufferPS.shh
+  compilation header save succeeded; see F:\Bureaublad\repo\antgame\Engine\FramebufferVS.shh
+  Animation.cpp
+  Ant.cpp
+  COMInitializer.cpp
+  DXErr.cpp
+  Font.cpp
+  FrameTimer.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+f:\bureaublad\repo\antgame\engine\ant.cpp(33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+f:\bureaublad\repo\antgame\engine\ant.cpp(38): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Sound.cpp
+  Surface.cpp
+  Engine.vcxproj -> F:\Bureaublad\repo\antgame\x64\Debug\Engine.exe
